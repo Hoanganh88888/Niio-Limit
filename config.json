@@ -6,15 +6,15 @@
     "BOTNAME": " Kai ",
     "AMDIN_NAME": "Hoàng Anh",
     "keyRent": "Lunar",
-    "FACEBOOK_ADMIN": "",
+    "FACEBOOK_ADMIN": "100002284213823",
     "PREFIX": "#",
     "box_admin": "",
     "ADMINBOT": [
-        "",
+        "100002284213823",
         ""
     ],
     "NDH": [
-        "",
+        "100002284213823",
         ""
     ],
     "autoCleanCache": {
